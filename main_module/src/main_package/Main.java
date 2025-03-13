@@ -7,7 +7,7 @@ public class Main {
         Student s1 = new Student("Mukiibi Nelly", 25);
         s1.displayIfo();
 
-        Lecturer lec=new Lecturer("Kagugube Mike",40);
+        Lecturer lec=new Lecturer("Kamoga Mike",40);
         lec.displayIfo();
         }
     }
